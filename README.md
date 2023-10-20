@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/14VvGfFXhXJIKbXQrR9qHYsUTeDaxJuSd/view?usp=sharing](https://drive.google.com/file/d/14VvGfFXhXJIKbXQrR9qHYsUTeDaxJuSd/view?usp=sharing)
 
-- ⚡ Fun fact: **💻 Code at night - Coffee = Catastrophe!**
+- ⚡ Fun fact: **💻 Code at 3:00 AM - Coffee = Catastrophe!**
 
   <br></br>
 
