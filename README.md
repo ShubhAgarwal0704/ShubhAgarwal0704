@@ -3,6 +3,7 @@
 
 <br></br>
 
+<img align="right" alt="coding" width="300" src="https://raw.githubusercontent.com/AswinBarath/AswinBarath/master/coding.gif">
 - 🌱 I’m currently learning **Android**
 
 - 💬 Ask me about **Android, C, C++, Java, Python**
@@ -10,6 +11,8 @@
 - 📫 How to reach me **shubhagarwal0704@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/14VvGfFXhXJIKbXQrR9qHYsUTeDaxJuSd/view?usp=sharing](https://drive.google.com/file/d/14VvGfFXhXJIKbXQrR9qHYsUTeDaxJuSd/view?usp=sharing)
+
+- ⚡ Fun fact: **💻 Code at night - Coffee = Catastrophe!**
 
   <br></br>
 
