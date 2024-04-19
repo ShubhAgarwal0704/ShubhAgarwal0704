@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **shubhagarwal0704@gmail.com**
 
-- 📄 <a>Know more about my experiences: </a> <a href="https://drive.google.com/file/d/1SXb14eBfCK5LP-CE1ur_Nw9HDgCQ5_NM/view?usp=sharing" target="_blank" rel="noreferrer">My Resume</a>
+- 📄 <a>Know more about my experiences: </a> <a href="https://drive.google.com/drive/folders/1cgP4ZFyQpxYS8nCMfkDGM1yckVyK8Kr1?usp=drive_link" target="_blank" rel="noreferrer">My Resume</a>
 
 
 - ⚡ Fun fact: **💻 Code at 3:00 AM - Coffee = Catastrophe!**
