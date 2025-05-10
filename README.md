@@ -35,18 +35,33 @@ I'm a firm believer in:
 
 ### 🚀 Tech Stack & Tools
 
-<p align="left">
+<p align="center">
   <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://kotlinlang.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="60" height="60"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://dart.dev/" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="60" height="60"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="60" height="60"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://flutter.dev/" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="60" height="60"/></a>
+</p>
+
+<p align="center" style="margin-top: 20px;">
   <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="60" height="60"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="60" height="60"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="60" height="60"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/></a>
+</p>
+
+<p align="center" style="margin-top: 20px;">
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="60" height="60"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="60" height="60"/></a>
 </p>
 
@@ -54,11 +69,17 @@ I'm a firm believer in:
 
 ### 🌐 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="https://twitter.com/shubhagarwal704" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/shubhagarwal0704" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.leetcode.com/shubhagarwal0704" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" /></a>
+</p>
+
+<p align="center" style="margin-top: 20px;">
   <a href="mailto:shubhagarwal0704@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://drive.google.com/drive/folders/1cgP4ZFyQpxYS8nCMfkDGM1yckVyK8Kr1?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" height="40" /></a>
 </p>
 
@@ -72,6 +93,7 @@ I'm a firm believer in:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shubhagarwal0704&show_icons=true&theme=algolia" alt="GitHub Stats" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhagarwal0704&layout=compact&theme=algolia" alt="Top Languages" />
 </p>
 
