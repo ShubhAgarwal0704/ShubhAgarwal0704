@@ -54,8 +54,8 @@ I'm a firm believer in:
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="60" height="60"/></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+<!--   <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="60" height="60"/></a> -->
+<!--   &nbsp;&nbsp;&nbsp;&nbsp; -->
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/></a>
 </p>
 
